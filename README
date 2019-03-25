@@ -1,1 +1,3 @@
+scan.sh -- script
+start:
 ./scan.sh /home/user/ -H 172.18.0.2 -P 3306 -D scan -U root -p A123dmin
