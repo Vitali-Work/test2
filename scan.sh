@@ -81,7 +81,7 @@ created DATE,
 path TEXT,
 PRIMARY KEY (id)
 );
-INSERT INTO '$db_schema' (filename,size,created,path) '$str';"
+INSERT INTO files (filename,size,created,path) '$str';"
 "'
 
 
